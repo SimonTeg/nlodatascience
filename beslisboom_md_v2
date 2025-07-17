@@ -150,7 +150,7 @@
 <body>
   <div id = "header" class="row">
   <div class="col-md-2">
-    <img id="logo" src="https://werkenbij.nederlandseloterij.nl/wp-content/themes/nederlandse-loterij/assets/img/logo.svg">
+    <img id="logo" src="https://milieudefensie.nl/@@site-logo/Basis_logo_Milieudefensie+Pay-Off.png">
   </div>
   <div class="col-md-8">
     <h1 id = "title">___title___</h1>
