@@ -88,7 +88,7 @@
   }
 
   #header {
-    background-image: linear-gradient(to bottom right, #003C71, #0095DB);
+    background-image: linear-gradient(to bottom right, #4D9E3F, #F2F7F1);
     font-family: Roihu, Arial, sans-serif;
   }
 
