@@ -214,7 +214,7 @@
 
   var textInfo = `
     <p>
-      In het figuur rechts is de opsplitsing weergegeven van een dataset. De grootte van de lijntjes corresponderen met de grootte van de groepen, de kleur geeft aan in ...
+      In het figuur rechts is de opsplitsing weergegeven van een dataset. De grootte van de lijntjes corresponderen met de grootte van de groepen, hoe donkerder de kleur hoe hoger de waardes zijn waar het overgaat
     </p>
   `;
 
